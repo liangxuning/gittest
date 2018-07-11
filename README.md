@@ -1,2 +1,6 @@
 # gittest
-yrryrryrr
+<<<<<<< HEAD
+lxnlxnlxn
+=======
+lxnlxnlxn
+>>>>>>> feature-1
